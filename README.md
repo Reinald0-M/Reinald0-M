@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Reinald0-M/Reinald0-M** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is **Reinaldo Mock**! I am a current ML PhD student at Georgia Institute of Technology, where I also have my undergrad in Biomedical Engineering.
 
-Here are some ideas to get you started:
+I _love_ being able to tell stories with data, especially if those stories can be used to change lives.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on my PhD in machine learning!
+- 🌱 I’m currently learning how to use more advanced data visualizations!
+- 👯 I’m looking to collaborate on biomedical projects! I have experience with wearables and love collaborating with other motivated individuals. 
+- 💬 Ask me about my startup! 
+- 📫 How to reach me: Email me at reinaldo.mock [at] gmail [dot] com
+- 😄 Pronouns: He / Him
+- ⚡ Fun fact: I am a classically trained pianist!
+
